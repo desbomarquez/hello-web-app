@@ -1,0 +1,38 @@
+body{
+    background-color: orange;
+}
+
+#container{
+    background-color: white;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+header{
+    background-color: #EEEEEE;
+    color: brown;
+    border: 4px brown dashed;
+    text-align: center;
+}
+
+aside{
+    width: 250px;
+    float: left;
+    padding-left:10px ;
+}
+
+article{
+    width: 700px;
+    float: right;
+}
+
+footer{
+    background-color: #EEEEEE;
+    color: grey;
+    clear: both;
+    padding-left: 10px;
+}
+
+input, textarea{
+    display: block;
+}
